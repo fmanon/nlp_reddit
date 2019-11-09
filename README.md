@@ -14,7 +14,7 @@ In order to unlock that level of satisfaction, retailers must first understand t
 We define our best model as that which can successfully predict which subreddit a particular post came from with a high level of accuracy.  In other words, how accurately can our model distinguish between employee woes and customer woes?
 
 ## Project Files
-- [Project 3 Notebook](./code/Project_3_Notebook.ipynb)
+- [NLP_with_Reddit_Notebook](./code/NLP_with_Reddit_Notebook.ipynb)
 - [combined.csv](./datasets/combined.csv)
 
 ## Executive Summary
