@@ -1,4 +1,4 @@
-# Project 3 - Webscraping Reddit
+# Webscraping Reddit
 
 
 ## Problem Statement
